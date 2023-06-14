@@ -1,3 +1,5 @@
 .env
 config.py
 /venv
+/__pycache__
+test_app/__pycache__/
